@@ -1,4 +1,4 @@
-# Søvnhefet
+# Søvnheftet
 Dette prosjektet skal hjelpe deg med langvarige søvnproblemer. 
 Det er et sammendrag av søvnheftet laget av Magnus Nordmo og utgitt av Norsk Helseinformatikk (NHI).
 
