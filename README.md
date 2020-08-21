@@ -14,21 +14,3 @@ Kurset omfatter ni moduler.
 * [Modul 7: Søvnhygiene](./MODUL-7.md)
 * [Modul 8: Vanlige vansker](./MODUL-8.md)
 * [Modul 9: Siste modul](./MODUL-9.md)
-
-# Modul 1: Introduksjon
-
-# Modul 2: Søvndagbok
-
-# Modul 3: Søvnrestriksjon
-
-# Modul 4: Stimuluskontroll
-
-# Modul 5: Grubling og problemløsning
-
-# Modul 6: Automatiske tanker
-
-# Modul 7: Søvnhygiene
-
-# Modul 8: Vanlige vansker
-
-# Modul 9: Siste modul 
