@@ -1,3 +1,3 @@
 # Modul 1: Introduksjon
 
-[README](./README.md)
+[HOME](./README.md)
