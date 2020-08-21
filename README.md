@@ -5,7 +5,7 @@ Det er et sammendrag av søvnheftet laget av Magnus Nordmo og utgitt av Norsk He
 Søvnheftet er basert på et selvhjelpskurs som fins på [nettsidene til nhi.no](https://nhi.no/psykisk-helse/kognitiv-terapi/langvarige-sovnvansker/langvarige-sovnvansker-selvhjelpskurs/). 
 Kurset omfatter ni moduler.
 
-* [Modul 1: Introduksjon](./MODUL1.md)
+* [Modul 1: Introduksjon](./MODUL-1.md)
 * Modul 2: Søvndagbok
 * Modul 3: Søvnrestriksjon
 * Modul 4: Stimuluskontroll
