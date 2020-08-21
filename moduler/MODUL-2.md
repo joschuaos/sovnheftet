@@ -1,3 +1,3 @@
 # Modul 2: Søvndagbok
 
-[HOME](./README.md)
+[HOME](../README.md)

@@ -1,3 +1,3 @@
 # Modul 4: Stimuluskontroll
 
-[HOME](./README.md)
+[HOME](../README.md)

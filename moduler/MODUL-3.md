@@ -1,3 +1,3 @@
 # Modul 3: Søvnrestriksjon
 
-[HOME](./README.md)
+[HOME](../README.md)
