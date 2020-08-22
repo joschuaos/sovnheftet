@@ -13,14 +13,9 @@ Insomnia betyr at begge prosessene er usynkronisert.
 
 Søvnretriksjone skal bygge opp et kraftig søvntrykk. Det handler om å være streng og å kun tillat seg til å sove under noen omstendigheter. Hvis man sover veldig uregelmessig, vil man samle inn tiden man sover til et søvnvindu som er på natten.
 
-Søvnrestriksjon skal gi bedre søvneffektivitet.
-![(total søvntid) / (total ti i sengen x 100) = søvneffektivitet i prosent](../media/bilder/sovneffektivitet.jpg)
-
-Søvneffektivitet på  85 % er normalt, under kan man fort blir frustrert og mer våken.
+Søvnrestriksjon skal gi bedre søvneffektivitet (cf. nedenfor). Søvneffektivitet på  85 % er normalt, under kan man fort blir frustrert og mer våken.
 
 ## Ditt nye søvnvindu
-
-![(Ditt nye søvnvindu](../media/bilder/sovnvindu.png)
 * Se på din søvndagbog. 
 * Ta utgangspunkt i gjennomsnittlige søvntid gjennom hele uken som ditt nye søvnvindu.
 * Finn et passende tidspunkt for å legge deg og for å stå opp. 
@@ -29,6 +24,11 @@ Søvneffektivitet på  85 % er normalt, under kan man fort blir frustrert og mer
 * Stopp oppjusteringen når slvneffektivitet er mer enn 85 % og man sover godt gjennom natten. (Det kan ta noen uker eller måneder.)
 * Gjør en avtale med deg selv og finn ditt legge- og oppvåkningstidspunkt.
 * Tenk på strategier som kan hjelpe deg til å stå opp (venner, dusj, kaffe, kjæreste, osv.).
+
+|||
+|:-:|:-:|
+|![(total søvntid) / (total ti i sengen x 100) = søvneffektivitet i prosent](../media/bilder/sovneffektivitet.jpg)|![Ditt nye søvnvindu](../media/bilder/sovnvindu.png)|
+|Søvneffektivitet|Ditt nye søvnvindu|
 
 OBS!:
 * Følg med gjennom søvndagboka. 
