@@ -9,6 +9,11 @@ Hvorfor må vi sove:
 
 Insomnia betyr at begge prosessene er usynkronisert. 
 
+|||
+|:-:|:-:|
+|![Søvntrykk og døgnrytme](../media/bilder/normal-dognrytme-dognbehov.png)|![Normal søvntrykk og insomnia](../media/bilder/insomnia.png)|
+|Søvntrykk og døgnrytme|Normal søvntrykk og insomnia|
+
 ## Søvnrestriksjon
 
 Søvnretriksjone skal bygge opp et kraftig søvntrykk. Det handler om å være streng og å kun tillat seg til å sove under noen omstendigheter. Hvis man sover veldig uregelmessig, vil man samle inn tiden man sover til et søvnvindu som er på natten.
