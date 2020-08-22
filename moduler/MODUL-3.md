@@ -20,6 +20,7 @@ Søvneffektivitet på  85 % er normalt, under kan man fort blir frustrert og mer
 
 ## Ditt nye søvnvindu
 
+![(Ditt nye søvnvindu](../media/bilder/sovnvindu.png)
 * Se på din søvndagbog. 
 * Ta utgangspunkt i gjennomsnittlige søvntid gjennom hele uken som ditt nye søvnvindu.
 * Finn et passende tidspunkt for å legge deg og for å stå opp. 
