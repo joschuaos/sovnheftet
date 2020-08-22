@@ -27,7 +27,7 @@ Søvnrestriksjon skal gi bedre søvneffektivitet (cf. nedenfor). Søvneffektivit
 
 |||
 |:-:|:-:|
-|![(total søvntid) / (total ti i sengen x 100) = søvneffektivitet i prosent](../media/bilder/sovneffektivitet.jpg)|![Ditt nye søvnvindu](../media/bilder/sovnvindu.png)|
+|![(total søvntid) / (total ti i sengen x 100) = søvneffektivitet i prosent](../media/bilder/sovneffektivitet.png)|![Ditt nye søvnvindu](../media/bilder/sovnvindu.png)|
 |Søvneffektivitet|Ditt nye søvnvindu|
 
 OBS!:
