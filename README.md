@@ -14,3 +14,7 @@ Kurset omfatter ni moduler.
 * [Modul 7: Søvnhygiene](./moduler/MODUL-7.md)
 * [Modul 8: Vanlige vansker](./moduler/MODUL-8.md)
 * [Modul 9: Siste modul](./moduler/MODUL-9.md)
+
+## Modul 1: Introduksjon
+
+Det fins (1) kortvarige og (2) langvarige/kroniske vansker. Dette kurset skal hjelpe oss med langvarige vansker, dvs. vi som opplever tre eller flere netter i løpet av uken med dårlig søvn i tre mpneder eller lengre. Du bør ha motivasjon og kapasitet til å gjennomføre oppgavene, og du _bør ikke_ befinne deg i en livskrise / vanskelig livssituasjon. Noen plager kan kombineres med kurset (kroppslige smerter, angst, depresjon), andre plager kan ikke kombineres (sovnapne, biploar lidelse, osv.).
