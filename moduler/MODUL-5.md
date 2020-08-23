@@ -4,9 +4,11 @@
 
 Tanker rundt søvn kan skape eller opprettholde store problemer med selve søvn.
 
-Problem: Man tenker på mye rart med en gang man ligger i senga (bekymringer, tanker, osv.).
+__Problem:__  
+Man tenker på mye rart med en gang man ligger i senga (bekymringer, tanker, osv.).
 
-Løsning: Sett av tid på dagen for konstruktiv problemløsning (cf. tabell nedenfor). Der skal du tenke gjennom dine utfordringer og komme på eventuelle løsninger. Bruk gjerne [problemløsningsarken](../media/vedlegg/problemlosningsark.pdf). Noen problemer er komplekse som ikke ha en endelig løsning. Se på utfordringen som prosess, der du alltid prøver å finne det neste steget. Tiden du bruker på det, er opp til deg. Når det kommer til grubling om natten, kan du si til deg selv at du er ferdig med grubling for i dag og at du får en ny mulighet i morgen. Grubbling om natten vil ikke hjelpe deg.
+__Løsning:__  
+Sett av tid på dagen for konstruktiv problemløsning (cf. tabell nedenfor). Der skal du tenke gjennom dine utfordringer og komme på eventuelle løsninger. Bruk gjerne [problemløsningsarken](../media/vedlegg/problemlosningsark.pdf). Noen problemer er komplekse som ikke ha en endelig løsning. Se på utfordringen som prosess, der du alltid prøver å finne det neste steget. Tiden du bruker på det, er opp til deg. Når det kommer til grubling om natten, kan du si til deg selv at du er ferdig med grubling for i dag og at du får en ny mulighet i morgen. Grubbling om natten vil ikke hjelpe deg.
 
 |||
 |-|-|
