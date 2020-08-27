@@ -2,25 +2,27 @@
 
 [HOME](../README.md)
 
-Søvnhygiene er eksterne faktorer for søvnvanskene. Det kan ikke kurere dårlig søvn, men det kan være en ?? for god søvn.
+## Definisjon
+Søvnhygiene er eksterne faktorer som kan ha en effekt søvnvansker. God søvhygiene kan ikke kurere dårlig søvn, men det er en forutsetning for god søvn.
 
-To faktorer:
-* soverrom:
-  * rent og ryddig
-  * støyfritt
-  * avkjølt med god luftkvalitet (rundt 18 grader, ta en dusj)
-  * helt mørkt
-  * Dyner, puter og laker du liker (bytt ut gamle puter)
-* livsstil:
-  * Unngå kaffein
-  * Begrens nikotin om kvelden
-  * Alkohol fører til overfladisk søvn
-  * Trening, men ikke rett før du legger deg (litt er bedre enn ingenting, minst 2 timer før leggetiden)
-  * Lett Måltid før du legger deg.
+## Soverom vs livsstil
+ToSøvnhygiene omfatter to faktorer.
+* Et soverrom burde være:
+  * rent og ryddig;
+  * støyfritt;
+  * avkjølt med god luftkvalitet (rundt 18 grader, bruk vifte, ta en dusj hvis du ofte føler deg varm i senga);
+  * helt mørkt (dekk vinduene);
+  * inkludere dyner, puter og laker du liker (bytt ut gamle puter)
+* Livsstilvaner som kan hjelpe søvnen din:
+  * Unngå kaffein.
+  * Begrens nikotin om kvelden.
+  * Ikke bruk alkohol som sovemiddel. Det fører bare til overfladisk søvn.
+  * Trening, men ikke rett før du legger deg (litt er bedre enn ingenting, kanksje 3-4 ganger i uken, minst 2 timer før leggetiden).
+  * Lett låltid før du legger deg.
 
-Tilbaketrekningsritualet
-Hjernen liker rutiner.
-Unngå stimuleren aktiviteter 1-2 timer før leggetid.
-Lese bok, lett husarbeid,  daglitalige samtaler.
+## Tilbaketrekning
+Hjernen liker rutiner. Lær hjernen til å skjønne at vi skal legge oss snart. Gjør noe som innholder deg slik at du vil gjøre det, men ikke nok til at de aktiverer deg (lese ei bok, lett husarbeid,  dagligdagse samtaler). Unngå stimuleren aktiviteter 1-2 timer før leggetid.
 
+
+## Sjekkliste
 Bruk [sjekklisten om søvnhygiene](../media/vedlegg/sovnhygiene.pdf).
