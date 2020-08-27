@@ -13,3 +13,29 @@ Kurset omfatter ni moduler.
 * [Modul 7: Søvnhygiene](./moduler/MODUL-7.md)
 * [Modul 8: Vanlige vansker](./moduler/MODUL-8.md)
 * [Modul 9: Siste modul](./moduler/MODUL-9.md)
+
+## Modul 1: Introduksjon
+
+Det fins (1) kortvarige og (2) langvarige/kroniske vansker. Dette kurset skal hjelpe oss med langvarige vansker, dvs. vi som opplever tre eller flere netter i løpet av uken med dårlig søvn i tre måneder eller lengre. Du bør ha motivasjon og kapasitet til å gjennomføre oppgavene, og du _bør ikke_ befinne deg i en livskrise / vanskelig livssituasjon. Noen plager kan kombineres med kurset (kroppslige smerter, angst, depresjon), andre plager kan ikke kombineres (sovnapne, biploar lidelse, osv.).
+
+## Modul 2: Søvndagbok
+
+Appen kan lastes ned for iOS og Android og heter Søvndagbok / Sleep diary. Fyll ut søvndagbok i ei uke før du går videre.. Gjør det om morgenen, rett etter at du har våknet. Det er ikke nødvendig å være helt nøyaktig. Ikke styr på en klokke, men vend heller bort vekkerklokken.
+
+## Modul 3: Søvnrestriksjon
+
+Vi sover pga (1) vår døgnrytme (en indre 24 timers klokke som styrer opplevd våkenhet), og (2) vårt søvntrykk / vår søvnbehov som indikerer når vi har nok søvn dvs når vi føler oss tilstrekkelig uthvilt på dagtid. Normalt er begge prossessene komplimentære, men når man har insomnia er dem usynkronisert. _Søvnrestriksjon_ skal bygge opp et kraftig søvntrykk ved å definere et søvnvindu som er den eneste tiden vi tillater oss å sove. Dette skal gi bedre søvneffektivitet: (total søvntid)/(total tid i sengen), og en søvneffektivitet over 85% er normal.
+
+__Dit nye søvnvindu__:
+* Ta gjennomsnittlig søvntid hjennom uken fra din søvndagbok.
+* Finn passende tidsplunkt for å legge deg og for å stå opp som dekker ditt nye søvnvindu.
+* Hold ditt nye vindu i minimum ei uke, også på helgen.
+* Gjør en avtale med deg selv om å holde ditt nye søvnvindu.
+* Tenk på strategier som kan hjelpe deg til å stå opp.
+* Etter ei uke: Dersom søvneffektivitet er over 80%, juster opp vinduet med 15 minutt.
+
+__OBS__:
+* Følg med gjennom søvndagboka.
+* Det er vanlig å sove mindre i begynnelsen.
+* Nedjuster vinduet dersom du _ikke_ får nok søvneffektivitet i løpet av 1-2 uker.
+* Ikke sov på dagtid.
