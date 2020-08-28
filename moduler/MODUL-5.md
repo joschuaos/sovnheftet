@@ -14,9 +14,9 @@ Sett av tid på dagen for konstruktiv problemløsning (cf. tabell nedenfor). Der
 |-|-|
 |Konstruktiv problemløsning|Grubling og tankekjør|
 |Målrettet, organisert og konstruktiv|Repetitivt og ustrukturert|
-|Gir ikke egentlig noen løsninger eller innsikt|Kan gi gode svar eller veier videre.|
-|tidsubegrenset uten en klar start eller stop|Tidsbegrenset|
+|Kan gi gode svar eller veier videre.|Gir ikke egentlig noen løsninger eller innsikt|
+|Tidsbegrenset|Tidsubegrenset uten en klar start eller stop|
 
-OBS: 
+OBS!: 
 * En enkelt bekymringstanke er ikke det samme som grubling. Spontane bekymringstanker er spontane og kan ikke kontrolleres. Grubling _kan_ stoppes med viljestyrt kontroll. Det må rett og slett øves.
 * Ha du depresjon, bør du spørre om hjelp.
