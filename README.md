@@ -45,3 +45,12 @@ Hjernen skal forstå at du skal sove når du ligger i senga.
 Dersom du ikke får sove i løpe av 20 minutt, stå opp og gjør noe annet. 
 Bare sov og ha sex i senga, ikke noe annet.
 
+## Modul 5: Grubling og problemløsning
+
+## Modul 6: Automatiske tanker
+
+## Modul 7: Søvnhygiene
+
+## Modul 8: Vanlige vansker
+
+## Modul 9: Siste modul
