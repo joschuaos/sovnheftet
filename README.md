@@ -39,3 +39,9 @@ __OBS__:
 * Det er vanlig å sove mindre i begynnelsen.
 * Nedjuster vinduet dersom du _ikke_ får nok søvneffektivitet i løpet av 1-2 uker.
 * Ikke sov på dagtid.
+
+## Modul 4: Stimuluskontroll
+Hjernen skal forstå at du skal sove når du ligger i senga.
+Dersom du ikke får sove i løpe av 20 minutt, stå opp og gjør noe annet. 
+Bare sov og ha sex i senga, ikke noe annet.
+

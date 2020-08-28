@@ -3,7 +3,7 @@
 [HOME](../README.md)
 
 ## Kort repetisjon om søvnrestriksjoner
-* Vi satt et søvnvindu: ```Tiden man tillater seg selv å vre i senga```for å sove. 
+* Vi satt et søvnvindu: ```Tiden man tillater seg selv å være i senga```for å sove. 
 * Man sover kanskje mindre i begynnelsen, men det øker søvntrykk. 
 * Det endelige målet er å øke søvneffektivitet.
 
@@ -15,4 +15,3 @@ Hjerne skal forstå at man skal sove når man legger seg i senga. Unngå å ligg
 Dersom du ikke får sove i løpet av 20 minutt, stå opp og gjør noe annet. (Gjør rolige aktiviteter, unngå sterke lyskilder og aktiviteter som gjør deg våken.) Bedre å være våken i stuen i hele natten enn å vri seg i senga uten å sove. Ikke følg tett med på klokken.  Kjenn på følelsen din.
 
 Ikke gjør andre ting i senga enn å sove eller sex som arbeid eller underholdning. 
-
