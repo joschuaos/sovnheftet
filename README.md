@@ -46,6 +46,12 @@ Dersom du ikke får sove i løpe av 20 minutt, stå opp og gjør noe annet.
 Bare sov og ha sex i senga, ikke noe annet.
 
 ## Modul 5: Grubling og problemløsning
+Erstatt grubling og tankekjør med konstruktiv problemløsning ved å sette av tid på dagen.
+Tenk gjennom utfordringene dine og kom gjerne med eventuelle løsninger.
+Noen utfordringer er komplekse, og problemløsning er en prosess der du finner det neste steget.  
+
+Når du kjenner at du begynner å gruble om natten, sier du til deg selv: «Jeg er ferdig med grubling i dag. Det kommer en ny mulighet i morgen. Grubling om natta vil ikke hjelpe meg uansett.»
+Husk at spontane bekymringstanker kommer av seg selv og kan ikke kontrollerers. Grubling derimot _kan_ stopes med viljestyrt kontroll.
 
 ## Modul 6: Automatiske tanker
 
