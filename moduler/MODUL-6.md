@@ -2,7 +2,7 @@
 
 [HOME](../README.md)
 
-Typiske tanker for mennesker med søvnproblemer. De kommer uten bevisst innsats/styring. De dukker bare opp og påvirker adferden vår. Ofte er de unyanserte og negative, samtidig som vi ikke er bevisst på dem. Vi kan ikke bli kvitt disse tankene, men vi kan bli bevisst på dem og velge hvordan vi folholder oss til demm. 
+Det fins noen typiske tanker for mennesker med søvnproblemer. De kommer uten bevisst innsats/styring, men dukker bare opp og påvirker adferden vår. Ofte er de unyanserte og negative, samtidig som vi ikke er bevisst på dem. Vi kan ikke bli kvitt disse tankene, men vi kan bli bevisst på dem og velge hvordan vi forholder oss til demm. 
 
 1. ```Dersom jeg ikke føler meg uthvilt når jeg våkner så trenger jeg mer søvn, da må jeg sove videre.```  
 Det er vanskelig å vurdere hvor mye søvn man egentlig trenger utifra hvordan man føler seg om morgenen. Både søvnbehov og andre tilstander påvirker denne morgenfølelsen, som for eksempel søvnstadium du var i før du våknet.
