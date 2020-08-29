@@ -17,6 +17,6 @@ Sett av tid på dagen for konstruktiv problemløsning (cf. tabell nedenfor). Der
 |Kan gi gode svar eller veier videre.|Gir ikke egentlig noen løsninger eller innsikt|
 |Tidsbegrenset|Tidsubegrenset uten en klar start eller stop|
 
-OBS!: 
+## :warning: OBS :warning: 
 * En enkelt bekymringstanke er ikke det samme som grubling. Spontane bekymringstanker er spontane og kan ikke kontrolleres. Grubling _kan_ stoppes med viljestyrt kontroll. Det må rett og slett øves.
 * Ha du depresjon, bør du spørre om hjelp.
