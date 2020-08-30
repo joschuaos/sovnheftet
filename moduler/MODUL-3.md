@@ -30,6 +30,8 @@ Søvnrestriksjon skal gi bedre søvneffektivitet (cf. nedenfor). Søvneffektivit
 * Etter ei uke: Dersom søvneffektiviteten vanligvis er over 80%, juster vinduet opp med 15 minutter per uke ved å legge til 15 minutter _per uke_.
 * Stopp oppjusteringen når søvneffektivitet er mer enn 85 % og man sover godt gjennom natten. (Det kan ta noen uker eller måneder.)
 
+Du finner et eksempel [her](../media/vedlegg/sovnvindu.pdf)
+
 |||
 |:-:|:-:|
 |![(total søvntid) / (total ti i sengen x 100) = søvneffektivitet i prosent](../media/bilder/sovneffektivitet.png)|![Ditt nye søvnvindu](../media/bilder/sovnvindu.png)|
