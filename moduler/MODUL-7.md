@@ -6,7 +6,7 @@
 Søvnhygiene er eksterne faktorer som kan ha en effekt søvnvansker. God søvhygiene kan ikke kurere dårlig søvn, men det er en forutsetning for god søvn.
 
 ## Soverom vs livsstil
-ToSøvnhygiene omfatter to faktorer.
+Søvnhygiene omfatter to faktorer.
 * Et soverrom burde være:
   * rent og ryddig;
   * støyfritt;
@@ -18,10 +18,10 @@ ToSøvnhygiene omfatter to faktorer.
   * Begrens nikotin om kvelden.
   * Ikke bruk alkohol som sovemiddel. Det fører bare til overfladisk søvn.
   * Trening, men ikke rett før du legger deg (litt er bedre enn ingenting, kanksje 3-4 ganger i uken, minst 2 timer før leggetiden).
-  * Lett låltid før du legger deg.
+  * Lett måltid før du legger deg.
 
 ## Tilbaketrekning
-Hjernen liker rutiner. Lær hjernen til å skjønne at vi skal legge oss snart. Gjør noe som innholder deg slik at du vil gjøre det, men ikke nok til at de aktiverer deg (lese ei bok, lett husarbeid,  dagligdagse samtaler). Unngå stimuleren aktiviteter 1-2 timer før leggetid.
+Hjernen liker rutiner. Lær hjernen til å skjønne at vi skal legge oss snart. Gjør noe som innholder deg slik at du vil gjøre det, men ikke nok til at de aktiverer deg (lese ei bok, lett husarbeid, dagligdagse samtaler). Unngå stimuleren aktiviteter 1-2 timer før leggetid.
 
 
 ## Sjekkliste

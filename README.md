@@ -74,6 +74,12 @@ Det stemmer at dårlig søvn kan føre til dårligere prestasjon, men hjernen v�
     3. Husk at tanken om «søvntoget» har en selvbekreftende effekt.
     
 ## Modul 7: Søvnhygiene
+Søvnhygiene er eksterne faktorer som er forutsetning for god søvn.
+Den omfatter to faktorer:
+* soverommet (rent og ryddig, støyfritt, avkjølt med god luftkvalitet - ca. 18 grader -, helt mørkt, dyner, puter og laker du liker) og,
+* livsstilvaner (ingen kaffein, ingen nikotin, ingen alkohol som sovemiddel, ja til trening men minst to timer før leggetiden, lett måltid før du legger deg.)
+
+Det er også viktig med tilbaketrekningsrutiner som signaliserer hjernen at vi snart skal legge oss. Ikke gjør stimulerende aktiviteter 1-2 timer før leggetid.
 
 ## Modul 8: Vanlige vansker
 
