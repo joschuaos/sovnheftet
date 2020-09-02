@@ -1,4 +1,6 @@
-# Kortvarige søvnvansker
+# Modul 10: Kortvarige søvnvansker
+
+[HOME](../README.md)
 
 For deg som opplever søvnvansker som varer i kortere enn tre måneder. 
 Vi vil ikke prøve å endre et uheldig mønster som har dannet seg over lengre tid.
@@ -36,7 +38,7 @@ De vanligste bivirkninger er:
 * svimmelhet,
 * fallskader, psykose eller hukommelsestapt.
 
-## :warning: OBS :warning:
+### :warning: OBS :warning:
 * De gjør ikke noe med underliggende problemet.
 * Dårligere søvnkvalitet på sikt.
 * Toleranse.
