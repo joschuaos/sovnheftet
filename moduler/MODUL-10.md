@@ -7,7 +7,7 @@ Vi vil ikke prøve å endre et uheldig mønster som har dannet seg over lengre t
 
 ## Årsaker for kortvarige søvnvansker
 
-Blir også kalt akutt insomni. Veldig vanlig at man opplever en periode på 1-12 uker med søvnvansker i løpet av livet. Alle sover av og til.
+Blir også kalt akutt insomni. Veldig vanlig at man opplever en periode på 1-12 uker med søvnvansker i løpet av livet. Alle sover dårlig av og til.
 
 Vanlige årsaker er:
 * krevene livshendelser (jobb, flytting, død, samlivsbrudd);
