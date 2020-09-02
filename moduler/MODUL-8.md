@@ -8,7 +8,7 @@ Du sover kanskje gjennom alarmen eller trykker på slumreknappen.
 Bruk en høgare alarm, sett den en stykke unna sengen, eller spør venner og familie om hjelp.
 
 ## Jeg klarer ikke å unngå å sove på dagen.
-Visse tider er mest sårbare, spesielt på ettermiddagen etter middag.  
+Visse tider er mest sårbare, spesielt på ettermiddagen eller middag.  
 
 Gjør noen stimulerende aktiviteter som avtaler med venner og familie, eller gjør fysisk aktivitet.
 
