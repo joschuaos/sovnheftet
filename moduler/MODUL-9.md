@@ -4,15 +4,15 @@
 
 ## Samfunnsperspektivet av søvnvansker
 
-Under individperspektivet har vi introdusert terapeutiske tiltak med fokus på tanker, følelser, adferd, onde sirkler og mønstre. Men sovnvansker opstår ikke i et vakkum, de påvirkes av ytre faktorer som omfatter både politikk, kultur, tankesett, osv.. Individet er del av et større samfunn.  
+Under individperspektivet har vi introdusert terapeutiske tiltak med fokus på tanker, følelser, adferd, onde sirkler og mønstre. Men sovnvansker opstår ikke i et vakkum, de påvirkes av ytre faktorer som omfatter både politikk, kultur, tankesett, osv. Individet er del av et større samfunn.  
 
 Som individ kan du snakke med psykolog eller bruke ei selvhjelpsbok.
-Som samfunn kan du snakke med arbeidsgiveren om tilrettelegging, få hjelp av en fagforeing, engasjere seg i et politisk parti, skrive et innlegg i ei avis, osv. 
-Det ene perspektivet utelukker ikke det andre perspektivet.  
+Som samfunn kan du snakke med arbeidsgiveren om tilrettelegging, få hjelp av en fagforening, engasjere seg i et politisk parti, skrive et innlegg i ei avis, osv. 
+Det ene perspektivet utelukker ikke det andre perspektivet. 
 Men hvis vi fokuserer oss kun på individ side, er det fare for at vi trur at det bare er vår feil.
 
 Som individ blir vi preget av omstendigheten og samfunnet. 
-Alle kan få en psykisk plage spesielt de under vanskelig omstendigheter:
+Alle kan få en psykisk plage spesielt de under vanskelig omstendigheter:  
 * Arbeidsløshet
 * Fattigdom
 * Mobbing på arbeidsplassen

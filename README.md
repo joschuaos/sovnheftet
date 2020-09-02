@@ -93,3 +93,7 @@ Du er på riktig spor, men må kanksje øke søvnvinduet. ⇨ Kanskje det er str
 * :warning: __OBS!__ :warning: ⇨ Noen trenger profesjonell hjelp. Spør fastlege, privatpraktiserende, eller kommunalt tilbud.
 
 ## Modul 9: Siste modul
+
+Søvnproblemer har et individ- og et samfunnsperspektiv som gir forskjellige løsningsmuligheter: Psykolog eller selvhjelpsbok for individer. Verneombud, fagforening, politisk parti, medier, osv for samfunnet.
+
+Indvidet blir påvirket av samfunnet. Psykisge plager kan treffe spesielt de under vanskelige omstendigheter (arbeidsløshet, fattigdom, mobbing på arbeidsplassen, leve i en krisgsone, ensomhet, mangler støtte fra nære relasjoner, vanskelige arbeidsforhold)
