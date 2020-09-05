@@ -54,7 +54,7 @@ __OBS__:
 
 ## Modul 4: Stimuluskontroll
 Hjernen skal forstå at du skal sove når du ligger i senga.
-Dersom du ikke får sove i løpe av 20 minutt, stå opp og gjør noe annet. 
+Dersom du ikke får sove i løpet av 20 minutt, stå opp og gjør noe annet. 
 Bare sov og ha sex i senga, ikke noe annet.
 
 ## Modul 5: Grubling og problemløsning
@@ -62,26 +62,32 @@ Erstatt grubling og tankekjør med konstruktiv problemløsning ved å sette av t
 Tenk gjennom utfordringene dine og kom gjerne med eventuelle løsninger.
 Noen utfordringer er komplekse, og problemløsning er en prosess der du finner det neste steget.  
 
-Når du kjenner at du begynner å gruble om natten, sier du til deg selv: «Jeg er ferdig med grubling i dag. Det kommer en ny mulighet i morgen. Grubling om natta vil ikke hjelpe meg uansett.»
-Husk at spontane bekymringstanker kommer av seg selv og kan ikke kontrollerers. Grubling derimot _kan_ stopes med viljestyrt kontroll.
+Når du kjenner at du begynner å gruble om natten, sier du til deg selv: «Jeg er ferdig med grubling i dag. 
+Det kommer en ny mulighet i morgen. 
+Grubling om natta vil ikke hjelpe meg uansett.»
+Husk at spontane bekymringstanker kommer av seg selv og kan ikke kontrollers. 
+Grubling derimot _kan_ stoppes med viljestyrt kontroll.
 
 ## Modul 6: Automatiske tanker
 Vi kan ikke kontrollere disse tanken, men vi kan velge hvordan vi forholder oss til dem.
 
 1. ```Dersom jeg ikke føler meg uthvilt når jeg våkner så trenger jeg mer søvn, da må jeg sove videre.```  
-Morgenfølelsen er påvirket av søvnbehov (som _ikke_ må være åtte timer) og søvnstadiumet før vi våknet.
-2. ```Hvis jeg ikke får nok svøn en natt er det viktig at jeg tar igjen den tapte søvnen påfølgende natt.```  
+Morgenfølelsen er påvirket av søvnbehov (som _ikke_ må være åtte timer) og søvnstadiet før vi våknet.
+2. ```Hvis jeg ikke får nok søvn en natt er det viktig at jeg tar igjen den tapte søvnen påfølgende natt.```  
 Hjernen vår kan kompensere for tapt søvn. 
-3. ```Hvis jeg har vansker med å sovne er det viktig at jeg blir i sengen og prøver hartdt!```  
-Vi kan ikke tvinge oss til og sove. Vi vil heller ikke assosiere senga med frustrasjon og andre negative følelser.
-4. ```Jeg er redd for at jeg mister kontrollen omver min evne til å sove.```  
+3. ```Hvis jeg har vansker med å sovne er det viktig at jeg blir i sengen og prøver hardt!```  
+Vi kan ikke tvinge oss til og sove. 
+Vi vil heller ikke assosiere senga med frustrasjon og andre negative følelser.
+4. ```Jeg er redd for at jeg mister kontrollen over min evne til å sove.```  
 Det er enkelt å sovne når vi sønvdepriverer oss selv i noen dager.
 5. ```Hvis jeg sover dårlig en natt, vil det ødelegge søvnmønsteret mitt hele uken.```  
-Det stemmer dersom vi kompenserer for dette de neste nettene. Fortsett med å legge deg som vanlig!
+Det stemmer dersom vi kompenserer for dette de neste nettene. 
+Fortsett med å legge deg som vanlig!
 6. ```Jeg __må__ ha åtte timer med søvn for å fungere neste dag.```  
 Det stemmer at dårlig søvn kan føre til dårligere prestasjon, men hjernen vår tåler mye og man sover lettere etter flere netter med dårlig søvn.
-7. ```Jeg har en slags frist inni meg: Har jeg ikke fått sovne innen et part imer er det akkurat som om «søvntoget» har dratt fra perrongen og da er det ingenting jeg kan gjør for å få sovne.```  
-    1. Ta en kikk på dine automatiske tanker. Stå heller opp og gjør noe annet.
+7. ```Jeg har en slags frist inni meg: Har jeg ikke fått sovne innen et par timer er det akkurat som om «søvntoget» har dratt fra perrongen og da er det ingenting jeg kan gjør for å få sovne.```  
+    1. Ta en kikk på dine automatiske tanker. 
+Stå heller opp og gjør noe annet.
     2. Ikke gjør noe som er for aktiverende.
     3. Husk at tanken om «søvntoget» har en selvbekreftende effekt.
     
@@ -91,7 +97,8 @@ Den omfatter to faktorer:
 * soverommet (rent og ryddig, støyfritt, avkjølt med god luftkvalitet - ca. 18 grader -, helt mørkt, dyner, puter og laker du liker) og,
 * livsstilvaner (ingen kaffein, ingen nikotin, ingen alkohol som sovemiddel, ja til trening men minst to timer før leggetiden, lett måltid før du legger deg.)
 
-Det er også viktig med tilbaketrekningsrutiner som signaliserer hjernen at vi snart skal legge oss. Ikke gjør stimulerende aktiviteter 1-2 timer før leggetid.
+Det er også viktig med tilbaketrekningsrutiner som signaliserer hjernen at vi snart skal legge oss. 
+Ikke gjør stimulerende aktiviteter 1-2 timer før leggetid.
 
 ## Modul 8: Vanlige vansker
 
