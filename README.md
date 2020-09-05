@@ -103,19 +103,29 @@ Ikke gjør stimulerende aktiviteter 1-2 timer før leggetid.
 ## Modul 8: Vanlige vansker
 
 * ```Jeg har vansker med å stå opp i tide.```
-Du sover gjennom alarmen eller trykker på slumreknappen. ⇨ Bruk en høgare alarm, sett den en stykke unna sengen, eller spør venner og familie om hjelp.
+Du sover gjennom alarmen eller trykker på slumreknappen.  
+⇨ Bruk en høgare alarm, sett den en stykke unna sengen, eller spør venner og familie om hjelp.
 * ```Jeg klarer ikke å unngå å sove på dagen.```
-Vær obs på visse «sårbare» tider (ettermiddagen, middag). ⇨ Gjør noen stimulerende aktiviteter, eller gjør fysisk aktivitet.
+Vær obs på visse «sårbare» tider (ettermiddagen, middag).  
+⇨ Gjør noen stimulerende aktiviteter, eller gjør fysisk aktivitet.
 * ```Jeg sover bedre, men er fortsatt sliten på dagen.```
-Du er på riktig spor, men må kanksje øke søvnvinduet. ⇨ Kanskje det er stress i hverdagen, mangel på avslapningstid, eller kroniske medisinske plager. Legg inn avslappende aktivitet i timeplanen din.
-* ```Din søvneffektiviter er over 85% , men søvnen din blir allikevel avbrutt.``` ⇨ Stram inn søvnvinduet ditt i en periode. Bruk 15 minutters intervaller per uke.
-* :warning: __OBS!__ :warning: ⇨ Noen trenger profesjonell hjelp. Spør fastlege, privatpraktiserende, eller kommunalt tilbud.
+Du er på riktig spor, men må kanksje øke søvnvinduet.  
+⇨ Kanskje det er stress i hverdagen, mangel på avslapningstid, eller kroniske medisinske plager. 
+Legg inn avslappende aktivitet i timeplanen din.
+* ```Din søvneffektiviter er over 85% , men søvnen din blir allikevel avbrutt.```  
+⇨ Stram inn søvnvinduet ditt i en periode. Bruk 15 minutters intervaller per uke.
+* :warning: __OBS!__ :warning:  
+⇨ Noen trenger profesjonell hjelp. Spør fastlege, privatpraktiserende, eller kommunalt tilbud.
 
 ## Modul 9: Samfunns- vs individsperspektivet
 
-Søvnproblemer har et individ- og et samfunnsperspektiv som gir forskjellige løsningsmuligheter: Psykolog eller selvhjelpsbok for individer. Verneombud, fagforening, politisk parti, medier, osv for samfunnet.
+Søvnproblemer har et individ- og et samfunnsperspektiv som gir forskjellige løsningsmuligheter: 
+Psykolog eller selvhjelpsbok for individer. 
+Verneombud, fagforening, politisk parti, medier, osv for samfunnet.
 
-Indvidet blir påvirket av samfunnet. Psykisge plager kan treffe spesielt de under vanskelige omstendigheter (arbeidsløshet, fattigdom, mobbing på arbeidsplassen, leve i en krisgsone, ensomhet, mangler støtte fra nære relasjoner, vanskelige arbeidsforhold)
+Indvidet blir påvirket av samfunnet. 
+Psykisge plager kan treffe spesielt de under vanskelige omstendigheter 
+(arbeidsløshet, fattigdom, mobbing på arbeidsplassen, leve i en krisgsone, ensomhet, mangler støtte fra nære relasjoner, vanskelige arbeidsforhold).
 
 ## Modul 10: Kortvarige søvnproblemer
 
@@ -133,5 +143,3 @@ ikke være redd for søvnvansker: ```Respekter søvn men forholder deg nøkternt
 Søvnmedisiner (_hypnotika)_ gjør det lettere å sove, samtidig som de kan ha en del bivirkninger (døsighet og tretthet om morgenen, redusert oppmerksomhet i trafikken, kvalme, hodepine, svimmelhet, fallskader, psykose eller hukommelsestapt).
 De gjør ikke noe med underliggende problemet og kan skape dårligere søvnkvalitet på sikt. 
 Begrens dem til en kort periode. Nedtrapping skal skje gradvis.
-
-
