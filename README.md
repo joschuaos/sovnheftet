@@ -104,28 +104,31 @@ Ikke gjør stimulerende aktiviteter 1-2 timer før leggetid.
 
 * ```Jeg har vansker med å stå opp i tide.```
 Du sover gjennom alarmen eller trykker på slumreknappen.  
-⇨ Bruk en høgare alarm, sett den en stykke unna sengen, eller spør venner og familie om hjelp.
+⇨ Bruk en høgare alarm, sett den et stykke unna sengen, eller spør venner og familie om hjelp.
 * ```Jeg klarer ikke å unngå å sove på dagen.```
 Vær obs på visse «sårbare» tider (ettermiddagen, middag).  
 ⇨ Gjør noen stimulerende aktiviteter, eller gjør fysisk aktivitet.
 * ```Jeg sover bedre, men er fortsatt sliten på dagen.```
-Du er på riktig spor, men må kanksje øke søvnvinduet.  
-⇨ Kanskje det er stress i hverdagen, mangel på avslapningstid, eller kroniske medisinske plager. 
+Du er på riktig spor.  
+⇨ Kanskje du må øke søvnvinduet. Kanskje det er stress i hverdagen, mangel på avslapningstid, eller kroniske medisinske plager. 
 Legg inn avslappende aktivitet i timeplanen din.
-* ```Din søvneffektiviter er over 85% , men søvnen din blir allikevel avbrutt.```  
+* ```Din søvneffektivitet er over 85% , men søvnen din blir allikevel avbrutt.```  
 ⇨ Stram inn søvnvinduet ditt i en periode. Bruk 15 minutters intervaller per uke.
 * :warning: __OBS!__ :warning:  
 ⇨ Noen trenger profesjonell hjelp. Spør fastlege, privatpraktiserende, eller kommunalt tilbud.
 
-## Modul 9: Samfunns- vs individsperspektivet
+## Modul 9: Individ- vs. samfunnsperspektivet
 
 Søvnproblemer har et individ- og et samfunnsperspektiv som gir forskjellige løsningsmuligheter: 
-Psykolog eller selvhjelpsbok for individer. 
-Verneombud, fagforening, politisk parti, medier, osv for samfunnet.
+* Psykolog eller selvhjelpsbok for individer. 
+* Verneombud, fagforening, politisk parti, medier, osv for samfunnet.
 
-Indvidet blir påvirket av samfunnet. 
-Psykisge plager kan treffe spesielt de under vanskelige omstendigheter 
-(arbeidsløshet, fattigdom, mobbing på arbeidsplassen, leve i en krisgsone, ensomhet, mangler støtte fra nære relasjoner, vanskelige arbeidsforhold).
+Individet blir påvirket av samfunnet. 
+Psykiske plager kan treffe alle, spesielt de under vanskelige omstendigheter 
+(arbeidsløshet, fattigdom, mobbing på arbeidsplassen, leve i en krigssone, ensomhet, mangler støtte fra nære relasjoner, vanskelige arbeidsforhold).
+
+:warning: OBS :warning:
+Få profesjonell hjelp dersom du føler at du  _ikke_ håndtere det. Dette gjelder spesielt selvmordstanker.
 
 ## Modul 10: Kortvarige søvnproblemer
 
