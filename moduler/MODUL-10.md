@@ -12,11 +12,11 @@ Veldig vanlig at man opplever en periode på 1-12 uker med søvnvansker i løpet
 Alle sover dårlig av og til.
 
 Vanlige årsaker er:
-* krevene livshendelser (jobb, flytting, død, samlivsbrudd);
+* krevende livshendelser (jobb, flytting, død, samlivsbrudd);
 * kroppslig sykdom og stress;
 * miljømessige faktorer (støy, lys, varme);
 * bivirkninger av enkelte medisiner; 
-* brudd i normal døgnrytme (jetlack, nattarbeid);
+* brudd i normal døgnrytme (jetlag, nattarbeid);
 * ingen spesiell grunn.
 
 Går ofte over av seg sjølv!
@@ -36,15 +36,15 @@ De vanligste bivirkninger er:
 * døsighet og tretthet om morgenen, 
 * redusert oppmerksomhet i trafikken,
 * kvalme,
-* hodepine,,
+* hodepine,
 * svimmelhet,
-* fallskader, psykose eller hukommelsestapt.
+* fallskader, psykose eller hukommelsestap.
 
 ### :warning: OBS :warning:
 * De gjør ikke noe med underliggende problemet.
-* Dårligere søvnkvalitet på sikt.
-* Toleranse.
-* Kan være vanskelig å slutte (avhengighet).
+* Du får dårligere søvnkvalitet på sikt.
+* Du kan utvikle en toleranse.
+* Det kan være vanskelig å slutte (avhengighet).
 
 Begrens dem til en kort periode.
 Nedtrapping skal skje gradvis.
