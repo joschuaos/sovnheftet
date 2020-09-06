@@ -23,7 +23,7 @@ Går ofte over av seg sjølv!
 
 ## Hvordan unngå kortvarige søvnvansker
 
-* Hold fast på et fast oppvåkningstidspunkt (også gjennom helgen), og unngå dagsoving.
+* Hold fast på et fast oppvåkningstidspunkt (også gjennom helgen) og unngå dagsoving.
 * Hold god søvnhygiene.
 * Håndter den utløsende faktoren dersom det er mulig. (Mer fritid, skifte medisiner, osv.)
 * Bruk konstruktiv problemløsning dersom du har mye grubling.
@@ -41,7 +41,7 @@ De vanligste bivirkninger er:
 * fallskader, psykose eller hukommelsestap.
 
 ### :warning: OBS :warning:
-* De gjør ikke noe med underliggende problemet.
+* De gjør ikke noe med det underliggende problemet.
 * Du får dårligere søvnkvalitet på sikt.
 * Du kan utvikle en toleranse.
 * Det kan være vanskelig å slutte (avhengighet).

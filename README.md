@@ -133,16 +133,16 @@ Få profesjonell hjelp dersom du føler at du  _ikke_ håndtere det. Dette gjeld
 ## Modul 10: Kortvarige søvnproblemer
 
 Akutt insomni er veldig vanlig og betyr at man opplever en periode på 1-12 uker med søvnvansker.
-Det skyldes ulike _årsaker_ (krevene livshendelser somjobb, flytting, død, samlivsbrudd, osv; kroppslig sykdom og stress; miljømessige faktorer som støy, lys, varme; bivirkninger av enkelte medisiner; brudd i normal døgnrytme (jetlack, nattarbeid); ingen spesiell grunn).
+Det skyldes ulike _årsaker_ (krevende livshendelser som jobb, flytting, død, samlivsbrudd, osv.; kroppslig sykdom og stress; miljømessige faktorer som støy, lys, varme; bivirkninger av enkelte medisiner; brudd i normal døgnrytme (jetlag, nattarbeid); ingen spesiell grunn).
 Går ofte over av seg sjølv!
 
-Vi kan _unngå_ kortvarige søvnvanker ved å 
+Vi kan _unngå_ kortvarige søvnvansker ved å 
 holde fast på et fast oppvåkningstidspunkt, unngå dagsoving;
 holde god søvnhygiene;
 håndtere den utløsende faktoren;
-bruke konstruktiv problemløsning;.
+bruke konstruktiv problemløsning;
 ikke være redd for søvnvansker: ```Respekter søvn men forholder deg nøkternt til faremomentet.```
 
-Søvnmedisiner (_hypnotika)_ gjør det lettere å sove, samtidig som de kan ha en del bivirkninger (døsighet og tretthet om morgenen, redusert oppmerksomhet i trafikken, kvalme, hodepine, svimmelhet, fallskader, psykose eller hukommelsestapt).
+Søvnmedisiner (_hypnotika)_ gjør det lettere å sove, samtidig som de kan ha en del bivirkninger (døsighet og tretthet om morgenen, redusert oppmerksomhet i trafikken, kvalme, hodepine, svimmelhet, fallskader, psykose eller hukommelsestap).
 De gjør ikke noe med underliggende problemet og kan skape dårligere søvnkvalitet på sikt. 
 Begrens dem til en kort periode. Nedtrapping skal skje gradvis.
