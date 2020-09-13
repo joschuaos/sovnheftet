@@ -141,7 +141,7 @@ holde fast på et fast oppvåkningstidspunkt, unngå dagsoving;
 holde god søvnhygiene;
 håndtere den utløsende faktoren;
 bruke konstruktiv problemløsning;
-ikke være redd for søvnvansker: ```Respekter søvn men forholder deg nøkternt til faremomentet.```
+ikke være redd for søvnvansker: ```Respekter søvn men forhold deg nøkternt til faremomentet.```
 
 Søvnmedisiner (_hypnotika)_ gjør det lettere å sove, samtidig som de kan ha en del bivirkninger (døsighet og tretthet om morgenen, redusert oppmerksomhet i trafikken, kvalme, hodepine, svimmelhet, fallskader, psykose eller hukommelsestap).
 De gjør ikke noe med underliggende problemet og kan skape dårligere søvnkvalitet på sikt. 
